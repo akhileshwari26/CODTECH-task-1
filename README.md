@@ -10,7 +10,6 @@ Duration : june to july 2024.
 
 Mentor :G.Sravani.
 
-Sure! Let's break down the creation of a basic calculator in Java step-by-step. The goal is to build a console-based application where the user can input two numbers and choose an operation (addition, subtraction, multiplication, division). The program will then perform the selected operation and display the result.
 
  Project Overview
 
