@@ -70,3 +70,7 @@ We'll output the result of the calculation to the user.
 - Error Handling: More robust error handling to catch exceptions and handle unexpected input gracefully.
 
 This project is a good starting point for understanding basic Java programming, user input handling, and control structures.
+
+output 
+![image](https://github.com/akhileshwari26/CODTECH-task-1/assets/172424840/6f50f1ab-652a-4b3e-9fb0-e3ca2ccbf6b8)
+
